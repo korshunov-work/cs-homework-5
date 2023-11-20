@@ -1,0 +1,15 @@
+C:\_DATA\Education\cs-homework-5\task-41\bin\Debug\net6.0\task-41.exe
+C:\_DATA\Education\cs-homework-5\task-41\bin\Debug\net6.0\task-41.deps.json
+C:\_DATA\Education\cs-homework-5\task-41\bin\Debug\net6.0\task-41.runtimeconfig.json
+C:\_DATA\Education\cs-homework-5\task-41\bin\Debug\net6.0\task-41.dll
+C:\_DATA\Education\cs-homework-5\task-41\bin\Debug\net6.0\task-41.pdb
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.csproj.AssemblyReference.cache
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.AssemblyInfoInputs.cache
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.AssemblyInfo.cs
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.csproj.CoreCompileInputs.cache
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.dll
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\refint\task-41.dll
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.pdb
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\task-41.genruntimeconfig.cache
+C:\_DATA\Education\cs-homework-5\task-41\obj\Debug\net6.0\ref\task-41.dll
